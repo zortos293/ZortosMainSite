@@ -1,0 +1,154 @@
+{
+    "Apps" : [
+        {
+            "Name" : "7zip",
+            "Description" : "Extracts and compresses files",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/7Zipbanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        "https://picteon.dev/files/7-Zip.zip"
+                    ],
+                    "Exelocation" : "7-Zip\\7zFM.exe"
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        ""
+                    ],
+                    "Exelocation" : ""
+                }
+            ],
+            "NeedAdmin" : true,
+            "Category" : "Windows Utilities"
+        },
+        {
+            "Name" : "Notepad++",
+            "Description" : "A Notepad clone",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/Notepad%2B%2BBanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        "https://picteon.dev/files/Notepad++.zip"
+                    ],
+                    "Exelocation" : "Notepad++\\App\\Notepad++\\notepad++.exe"
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        ""
+                    ],
+                    "Exelocation" : ""
+                }
+            ],
+            "NeedAdmin" : false,
+            "Category" : "Windows Utilities"
+        },
+        {
+            "Name" : "WinRAR",
+            "Description" : "Extracts and compresses files",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/WinrarBanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        "https://picteon.dev/files/WinRAR.zip"
+                    ],
+                    "Exelocation" : "WinRAR\\WinRAR.exe"
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        ""
+                    ],
+                    "Exelocation" : ""
+                }
+            ],
+            "NeedAdmin" : false,
+            "Category" : "Windows Utilities"
+        },
+        {
+            "Name" : "Process Hacker",
+            "Description" : "A process viewer",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/ProccesHackerBanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        "https://picteon.dev/files/ProcessHacker.zip"
+                    ],
+                    "Exelocation" : "ProcessHacker\\ProcessHacker.exe"
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        ""
+                    ],
+                    "Exelocation" : ""
+                }
+            ],
+            "NeedAdmin" : false,
+            "Category" : "Windows Utilities"
+        },
+        {
+            "Name" : "Explorer++",
+            "Description" : "A file explorer",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/Explorer%2B%2BBanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        
+                    ],
+                    "Exelocation" : ""
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        "https://picteon.dev/files/Explorer++.exe"
+                    ],
+                    "Exelocation" : "Explorer++.exe"
+                }
+            ],
+            "NeedAdmin" : false,
+            "Category" : "Windows Utilities"
+        },
+        {
+            "Name" : "Anydesk",
+            "Description" : "A remote desktop application",
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/Explorer%2B%2BBanner.png", 
+            "Version" : "1.0",
+            "DownloadLinks" : [
+                {
+                    "Name" : "zip",
+                    "Links" : [
+                        ""
+                    ],
+                    "Exelocation" : ""
+
+                },
+                {
+                    "Name" : "exe",
+                    "Links" : [
+                        "https://picteon.dev/files/AnyDesk.exe"
+                    ],
+                    "Exelocation" : "AnyDesk.exe"
+                }
+            ],
+            "NeedAdmin" : false,
+            "Category" : "Windows Utilities"
+        }
+    ]
+}
