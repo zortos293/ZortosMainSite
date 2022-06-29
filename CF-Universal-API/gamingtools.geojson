@@ -1,0 +1,30 @@
+{
+    "GamingTools" : [
+      {
+        "Appname": "BlueStacks",
+        "AppLink": "https://www.bluestacks.com/",
+        "DownloadServer": "Main",
+        "DownloadLink": "https://www.bluestacks.com/downloads/",
+        "Downloads": [
+            {
+                "Nougat5 (32-bit)": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=fd718101-f94e-429a-9112-66fca558f627&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252099.0.4826.0%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F99.0.4826.0%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252299.0.4826.0%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.1.1818660314.1651522342&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=https%253A%252F%252Fwww.bluestacks.com%252F&referrer=&download_page_referrer=&utm_campaign=homepage-dl-button-en&exit_utm_campaign=nxt-bs5-n32_button_download_page-en&incompatible=false&bluestacks_version=bs5",
+                "Nougat5 (64-bit)": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=fd718101-f94e-429a-9112-66fca558f627&app_pkg=nxt_n64&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252099.0.4826.0%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F99.0.4826.0%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252299.0.4826.0%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.1.1818660314.1651522342&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=https%253A%252F%252Fwww.bluestacks.com%252F&referrer=&download_page_referrer=&utm_campaign=homepage-dl-button-en&exit_utm_campaign=nxt-bs5-n64_button_download_page-en&incompatible=false&bluestacks_version=bs5",
+                "Nougat4 (32-bit": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=fd718101-f94e-429a-9112-66fca558f627&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252099.0.4826.0%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F99.0.4826.0%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252299.0.4826.0%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.1.1818660314.1651522342&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=https%253A%252F%252Fwww.bluestacks.com%252F&referrer=&download_page_referrer=&utm_campaign=homepage-dl-button-en&exit_utm_campaign=bgp-bs4-n32_button_download_page-en&incompatible=false&bluestacks_version=bs4",
+                "Nougat4 (64-bit)": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=fd718101-f94e-429a-9112-66fca558f627&app_pkg=bgp_n64&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252099.0.4826.0%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F99.0.4826.0%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252299.0.4826.0%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.1.1818660314.1651522342&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=https%253A%252F%252Fwww.bluestacks.com%252F&referrer=&download_page_referrer=&utm_campaign=homepage-dl-button-en&exit_utm_campaign=bgp-bs4-n64_button_download_page-en&incompatible=false&bluestacks_version=bs4"
+            }
+        ]
+      },
+        {
+            "Appname": "Steam",
+            "AppLink": "https://steampowered.com/",
+            "DownloadServer": "Main",
+            "DownloadLink":"https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
+        },
+        {
+            "Appname": "Epic Games",
+            "AppLink": "https://www.epicgames.com/store/",
+            "DownloadServer": "Main",
+            "DownloadLink":"https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+        }
+    ]
+  }

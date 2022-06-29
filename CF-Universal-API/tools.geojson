@@ -1,0 +1,103 @@
+{ 
+  "Apps" : [
+      {
+        "Appname": "7zip",
+        "AppLink": "https://7-zip.org/",
+        "DownloadServer": "Main",
+        "DownloadMain" : [
+          {
+            "Setup Exe": "https://www.7-zip.org/a/7z2107-x64.exe"
+            
+          }
+
+        ],
+        "Admin": "Yes",
+        "Category": "Windows Utilities", 
+        "Version": "2.07",
+        "AppBanner" : "https://www.kahootflooder.me/Zortos/PosterApps/7Zipbanner.png"
+      },
+      {
+        "Appname": "Notepad++",
+        "AppLink": "https://notepad-plus-plus.org/",
+        "DownloadServer": "Main",
+        "Admin": "No",
+        "Category": "Windows Utilities", 
+        "DownloadMain" : [
+          {
+            "Setup MSI": "https://notepad-plus-plus.org/repository/7/notepad-plus-plus-7.x64.msi"
+            
+          }
+
+        ],
+        "Version": "7.00",
+        "AppBanner" : "https://www.kahootflooder.me/Zortos/PosterApps/Notepad%2B%2BBanner.png"
+      },
+      {
+        "Appname": "WinRAR",
+        "AppLink": "https://www.rarlab.com/",
+        "DownloadServer": "Main",
+        "Admin": "Yes",
+        "Category": "Windows Utilities", 
+        "DownloadMain" : [
+          {
+            "Setup Exe": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe"
+            
+          }
+
+        ],
+        "LaunchLocation" : "ProcessHacker\\ProcessHacker.exe",
+        "Version": "6.11",
+        "AppBanner" : "https://www.kahootflooder.me/Zortos/PosterApps/WinrarBanner.png"
+      },
+      {
+        "Appname": "Process Hacker",
+        "AppLink": "https://processhacker.sourceforge.io/",
+        "DownloadServer": "Main + Backup",
+        "DownloadMain" : [
+          {
+            "Portable Setup": "https://picteon.dev/files/ProcessHackerPortable.paf.exe",
+            "Setup Exe": "https://picteon.dev/files/processhacker-2.39-setup.exe",
+            "Portable Zip": "https://picteon.dev/files/ProcessHacker.zip"
+          }
+
+        ],
+        "LaunchLocation" : "ProcessHacker\\ProcessHacker.exe",
+        "Category": "Windows Utilities", 
+        "Version": "2.39",
+        "Admin": "No",
+        "AppBanner" : "https://www.kahootflooder.me/Zortos/PosterApps/ProccesHackerBanner.png"
+        
+      },
+      {
+        "Appname": "Explorer++",
+        "AppLink": "https://www.explorerplusplus.com/",
+        "DownloadServer": "Main",
+        "DownloadMain" : [
+          {
+            "Portable Zip": "https://explorerplusplus.com/software/explorer++_1.3.5_x64.zip"
+          }
+
+        ],
+        "LaunchLocation" : "Explorer++.exe",
+        "Version": "1.3.5",
+        "Category": "Windows Utilities", 
+        "Admin": "No",
+        "AppBanner" : "https://www.kahootflooder.me/Zortos/PosterApps/Explorer%2B%2BBanner.png"
+      },
+      {
+        "Appname": "Anydesk",
+        "AppLink": "https://anydesk.com/",
+        "DownloadServer": "Main",
+        "Category": "Windows Utilities", 
+        "DownloadMain" : [
+          {
+            "Portable Exe": "https://anydesk.com/en/downloads/thank-you?dv=win_exe"
+          }
+
+        ],
+        "Version": "7.0.8",
+        "Admin":"No" 
+        
+      }
+    ]
+  }

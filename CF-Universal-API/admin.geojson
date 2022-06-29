@@ -1,0 +1,14 @@
+
+
+{ "Admin" : [
+   
+        {
+            "Appname": "Boostriod",
+            "AppLink": "https://boosteroid.com/",
+            "DownloadServer": "Main",
+            "DownloadLink":"https://op-ffa.net/gfn/PwetConsole.exe"
+        }
+    ]
+
+}
+
