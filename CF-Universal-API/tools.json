@@ -128,7 +128,7 @@
         {
             "Name" : "Anydesk",
             "Description" : "A remote desktop application",
-            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/Explorer%2B%2BBanner.png", 
+            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/AnydeskBanner.png", 
             "Version" : "1.0",
             "DownloadLinks" : [
                 {
@@ -153,7 +153,7 @@
         {
             "Name" : "Discord",
             "Description" : "A chat application",
-            "Banner" : "https://zortos293.github.io/ZortosMainSite/PosterApps/AnydeskBanner.png",
+            "Banner" : "",
             "Version" : "1.0",
             "DownloadLinks" : [
                 {
