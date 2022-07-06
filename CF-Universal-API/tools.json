@@ -149,31 +149,7 @@
             ],
             "NeedAdmin" : false,
             "Category" : "Windows Utilities"
-        },
-        {
-            "Name" : "Discord",
-            "Description" : "A chat application",
-            "Banner" : "",
-            "Version" : "1.0",
-            "DownloadLinks" : [
-                {
-                    "Name" : "zip",
-                    "Links" : [
-                        ""
-                    ],
-                    "Exelocation" : ""
-
-                },
-                {
-                    "Name" : "exe",
-                    "Links" : [
-                        "https://picteon.dev/files/AnyDesk.exe"
-                    ],
-                    "Exelocation" : "AnyDesk.exe"
-                }
-            ],
-            "NeedAdmin" : false,
-            "Category" : "Windows Utilities"
         }
+        
     ]
 }
